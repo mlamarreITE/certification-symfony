@@ -182,7 +182,7 @@ Each Category and Sub Category have questions, with one or more valid answers. I
 
 And to register, buy a voucher on https://certification.symfony.com/exams/symfony.html
 
-For more information, read this article : https://www.itefficience.com/
+For more information to pass Twig, Sylius and Symfony certification read this article : [https://www.itefficience.com/](https://www.itefficience.com/article/le-chemin-de-la-certification-symfony)
 
 To train with our team, contact us on https://www.itefficience.com/contact
 
